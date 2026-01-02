@@ -34,7 +34,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaryan-godaraE&show_icons=true&theme=radical)
+![GitHub Stats](https://github.com/aaryan-godara/aaryan-godara)
 
 ---
 
