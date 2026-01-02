@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Aryan 👋  
 
-<!--
-**aaryan-godara/aaryan-godara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (AI & Data Engineering) student  
+🚀 Building AI-powered SaaS & automation tools  
+🤖 Interested in AI, Data Engineering, and System Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m Working On
+- AI-based Instagram DM & Comment Automation SaaS
+- Web automation using n8n
+- Data analysis & visualization projects
+- Startup-focused web products
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+- Python, Java, JavaScript  
+
+**Web & Backend:**  
+- React, Node.js, Express  
+- REST APIs  
+
+**AI & Data:**  
+- Machine Learning basics  
+- Pandas, NumPy, Matplotlib  
+- OpenAI / Gemini APIs  
+
+**Tools & Platforms:**  
+- n8n, Supabase, GitHub  
+- Power BI, MySQL  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaryan-godaraE&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/aryan-godara-0535b0320/  
+- Instagram: https://www.instagram.com/aaryan._2709/?next=%2F  
+- Email: aryangodara813@gmail.com  
+
+---
+
+⭐ *Always building. Always learning.*
