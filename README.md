@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Aryan;BTech+CSE+(AI+%26+Data+Engineering)+Student;Building+AI+Tools+%26+Automation+Systems;Freelance+Web+Developer;Startup+Founder+Building+Tech+Products)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaryan-godara-1&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aaryan-godara&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1200">
@@ -24,10 +24,10 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=aaryan-godara-1&theme=react-dark&hide_border=true&cache_seconds=86400" alt="Aryan's GitHub Streak" width="49%" /></p>
+<img src="https://streak-stats.demolab.com/?user=aaryan-godara&theme=react-dark&hide_border=true&cache_seconds=86400" alt="Aryan's GitHub Streak" width="49%" /></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaryan-godara-1&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aaryan-godara&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aaryan-godara-1&theme=react-dark&radius=10" alt="Aryan's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aaryan-godara&theme=react-dark&radius=10" alt="Aryan's Activity Graph" />
 </p>
 
 ## 🛠️ Languages & Tools
